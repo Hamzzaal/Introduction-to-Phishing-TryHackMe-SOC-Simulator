@@ -86,10 +86,11 @@ Technical documentation and reproducible reporting
 👤 About the Author
 
 Eng. Hamzah Ali Alhaidari — Cybersecurity professional focused on SOC analysis, incident response, and threat detection.
+<img width="1015" height="346" alt="image" src="https://github.com/user-attachments/assets/5b1d870a-1248-4c4d-9aa2-007315278df6" />
 
 **TryHackMe profile:**  
 https://tryhackme.com/p/ETH.CYBER
-** LinkedIn: **  
+**LinkedIn:**
 https://www.linkedin.com/in/hamzah-alhaidari-bb2228219/
-** Email:**   
+**Email:**
 7.7hamza0@gmail.com
